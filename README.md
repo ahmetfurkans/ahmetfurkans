@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on ... Altınay Technology Group
+- 🔭 I’m currently working for ... Altınay Technology Group
 - 🌱 I’m currently learning ... Linux, Python, Bash, Ethical Hacking
 - 👯 I’m looking to collaborate on ... Ethical Hacking
 - 🤔 I’m looking for help with ... Bash

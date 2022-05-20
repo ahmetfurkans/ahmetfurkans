@@ -4,12 +4,12 @@
 
 
 
-- 🔭 I’m currently working on ... self employed
-- 🌱 I’m currently learning React.js,Node.js...
-- 👯 I’m looking to collaborate on ...React.js
-- 🤔 I’m looking for help with ... Node.js
+- 🔭 I’m currently working on ... Altınay Technology Group
+- 🌱 I’m currently learning ... Linux, Python, Bash, Ethical Hacking
+- 👯 I’m looking to collaborate on ... Ethical Hacking
+- 🤔 I’m looking for help with ... Bash
 
-- 📫 How to reach me: ... [Linkedin Profile](https://www.linkedin.com/in/ahmet-furkan-sevim-b395a71b7/)
+- 📫 How to reach me: ... [Linkedin Profile](https://www.linkedin.com/in/ahmetfurkansevim/)
 - 😄 Pronouns: ... He,Him
 
 

@@ -4,10 +4,9 @@
 
 
 
-- 🔭 I’m currently working for ... Altınay Technology Group
-- 🌱 I’m currently learning ... Linux, Python, Bash, Ethical Hacking
-- 👯 I’m looking to collaborate on ... Ethical Hacking
-- 🤔 I’m looking for help with ... Bash
+- 🔭 I’m currently working for ... freelancer
+- 🌱 I’m currently learning ... Java, Kotlin, MVVM
+- 👯 I’m looking to collaborate on ... Android Project
 
 - 📫 How to reach me: ... [Linkedin Profile](https://www.linkedin.com/in/ahmetfurkansevim/)
 - 😄 Pronouns: ... He,Him

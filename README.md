@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on ... Android Project
 
 - 📫 How to reach me: ... [Linkedin Profile](https://www.linkedin.com/in/ahmetfurkansevim/)
-- 😄 Pronouns: ... He,Him
+- 😄 Pronouns: ... He,Him 
 
 

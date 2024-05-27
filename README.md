@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working for ... freelancer
-- 🌱 I’m currently learning ... Java, Kotlin, MVVM
-- 👯 I’m looking to collaborate on ... Android Project
+- 🔭 I’m currently working for ... Huawei
+- 🌱 I’m currently learning ... Kotlin Multi Platform, AI
+- 👯 I’m looking to collaborate on ... AI, Mobile Projects 
 
 - 📫 How to reach me: ... [Linkedin Profile](https://www.linkedin.com/in/ahmetfurkansevim/)
 - 😄 Pronouns: ... He,Him
